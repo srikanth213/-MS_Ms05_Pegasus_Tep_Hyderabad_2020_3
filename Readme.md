@@ -1,9 +1,15 @@
 # Milestone-5: Chrome Extension: 21st century bookmarker
 
 "Stop Social Media"
+
+
 This extension blocks social media accounts.
 
+
+
 Team Members
+
+
 Srikanth Goskula
 
 ## Learning Competencies
